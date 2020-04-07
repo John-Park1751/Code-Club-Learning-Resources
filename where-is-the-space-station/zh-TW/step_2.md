@@ -61,6 +61,32 @@
 
     這是一個有 3 個鍵的 Python 字典：message（資訊）、number（數量）和 people（人物）。 
 
+
+--- callapse ---
+## 在 Pyhton 中使用 名稱:值
+
+這是樂隊成員的字典。名稱是第一部分（例如'john'），及其值是所述第二部分（例如，“rhythm guitar'）。
+---
+band = {
+  'john' : 'rhythm guitar',
+  'paul' : 'bass guitar',
+  'george' : 'lead guitar',
+  'ringo' : 'bass guitar'
+	}
+---
+這是將名稱:值添加到字典的方法：
+---
+## Add a key:value pair
+band['yoko'] = 'vocals'
+---
+以下是從字典中刪除名稱:值的方法：
+---
+## Remove a key:value pair
+del band['paul']
+---
+--- /callapse ---
+
+
     資訊的“success”（成功）值告訴你請求成功。很好。 
 
     請注意你會看到不同的結果，具體取決於目前誰在太空中！

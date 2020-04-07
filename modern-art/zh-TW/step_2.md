@@ -11,9 +11,11 @@
     紫色是通過混合紅色和藍色而得到的。
 
 --- collapse ---
----
-title: "Error - bad color sequence: (150, 0, 150)"
----
+
+
+## title: "Error - bad color sequence: (150, 0, 150)"
+
+
 
 當你執行程式碼時是否遇到`bad color sequence: (150, 0, 150)`這個錯誤。
 

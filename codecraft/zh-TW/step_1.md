@@ -15,8 +15,9 @@
 
 --- collapse ---
 ---
-title: 俱樂部領導備註
----
+
+## title: 給老師的話
+
 
 
 ## 介紹：
@@ -90,7 +91,7 @@ __本專案使用 Python 3。__我們推薦使用 [trinket]（https://trinket.io
 
 --- collapse ---
 ---
-title: 專案材料
+## title: 專案材料
 ---
 ## 專案資源
 * [包含所有專案資源的 .zip 檔案](resources/codecraft-project-resources.zip)
